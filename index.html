@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DCalculator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div  id="coma" class="operacionesComa">
+        <h2 class="text">Operaciones con coma:</h2>
+        <button operacionComa>Ordenar</button>
+        <button operacionComa>Revertir</button>
+        <button operacionComa>Quitar</button>
+        <button operacionComa>Sumatorio</button>
+    </div>
+
+    <div class="calculator-grid">
+        <div class="output">
+            <div anterior class="previous-operand"></div>
+            <div actual class="current-operand"></div>
+        </div>
+        <button ac class="span-two">AC</button>
+        <button class="del" delete>DEL</button>
+        <button class="barra" operacion>/</button>
+        <button coma>,</button> 
+        <button numero>1</button>
+        <button numero>2</button>
+        <button numero>3</button>
+        <button operacion>*</button>
+        <button numero>4</button>
+        <button numero>5</button>
+        <button numero>6</button>
+        <button operacion>+</button>
+        <button numero>7</button>
+        <button numero>8</button>
+        <button numero>9</button>
+        <button operacion>-</button>
+        <button numero>.</button>
+        <button numero>0</button>
+        <button operacion>!</button>
+        <button operacion class="modulo">%</button>
+        <button igual class="span-two igual">=</button>
+        <button operacion>POW</button>
+        <button operacion>SQRT</button>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

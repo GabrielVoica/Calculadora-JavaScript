@@ -1,0 +1,107 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
+
+body {
+    
+    padding: 0;
+    margin: 0;
+    background: url(./fotos/deer.jpg);
+    background-size: cover;
+}
+
+.operacionesComa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100px;
+    width: 100;
+    background: rgba(0,0,0,0.7);
+}
+
+.operacionesComa button{
+margin:10px;
+height:50%;
+width:10%;
+cursor: pointer;
+outline:none;
+background: linear-gradient( rgba(255,255,255,0.8), rgba(112,203,255,0.8));
+}
+
+
+
+.operacionesComa button:hover{
+  background:white;
+}
+
+.text{
+    color:white;
+    font-family: cursive;
+}
+
+.calculator-grid {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: minmax(120px, auto) repeat(6, 100px);
+}
+
+.calculator-grid button {
+    cursor: pointer;
+    border: 0.1px solid #B0E0E6;
+    outline: none;
+    background: linear-gradient( #B0E0E6,rgba(200,200,200,0.3));
+    font-size : 100%;
+}
+
+
+
+.calculator-grid button:hover {
+    background: linear-gradient(0deg, rgba(255,255,255,0.8) 19%, rgba(112,203,255,0.8) 100%);
+}
+
+.span-two {
+    grid-column: span 1 ;
+}
+
+.igual{
+    grid-column: span 2;
+}
+
+
+.barra {
+    grid-column: span 1;
+}
+
+
+
+.output {
+    grid-column: 1/-1;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.output .previous-operand {
+    color: rgba(255, 255, 255, 0.6);
+    
+}
+
+.output .current-operand {
+    color: white;
+    font-size: 1.3rem;
+}
+
+
+

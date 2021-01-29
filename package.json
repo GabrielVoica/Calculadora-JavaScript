@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simple realizada con Java Script y maquetada con HTML y CSS.\r El diseño maquetado es responsive y se adapta a cualquier pantalla.",
+  "main": "app.js",
+  "scripts": {
+    "start":"node de.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielVoica/Calculadora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielVoica/Calculadora/issues"
+  },
+  "homepage": "https://github.com/GabrielVoica/Calculadora#readme"
+}
