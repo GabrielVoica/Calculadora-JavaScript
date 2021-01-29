@@ -12,7 +12,7 @@ Para acceder a las operaciones con coma se debe introducir un número y presiona
 
 **Hasta que no se presiona el boton  **,** en la calculadora las operaciones con coma permanecen desactivadas.**
 
- ## **Este proyecto puede visualizarse utilizando GitHub pages!**
+ #### **Este proyecto puede visualizarse utilizando GitHub pages!**
 
 ---------------------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ You can introduce all the numbers you want but you'll have to separate all of th
 
 **The comma operations remain disabled until you press the comma button**
 
-## **This project can be visualized using GitHub pages!**
+#### **This project can be visualized using GitHub pages!**
 
 
 
