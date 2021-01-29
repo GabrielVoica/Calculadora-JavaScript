@@ -1,4 +1,4 @@
-#Calculadora hecha con JavaScript
+# Calculadora hecha con JavaScript
 
 Calculadora simple realizada con Java Script y maquetada con HTML y CSS.
 El diseño maquetado es responsive y se adapta a cualquier pantalla.
