@@ -8,6 +8,10 @@ El diseño maquetado es responsive y se adapta a cualquier pantalla.
 Consta de operaciones aritméticas y una serie de operaciones de ordenación, 
 intercambio de posición, substracción de elementos y suma de elementos.
 
+Para acceder a las operaciones con coma se debe introducir un número y presionar el boton ** , ** . A continuación se deben ingresar mas números cada uno separado por comas.
+
+**Hasta que no se presiona el boton  **,** en la calculadora las operaciones con coma permanecen desactivadas.**
+
 ---------------------------------------------------------------------------------------------
 
 Simple calculator made with Java Script. The layout is made with HTML and CSS, 
