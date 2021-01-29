@@ -14,6 +14,8 @@ Para acceder a las operaciones con coma se debe introducir un número y presiona
 
 ---------------------------------------------------------------------------------------------
 
+# Calculator made with JavaScript
+
 Simple calculator made with Java Script. The layout is made with HTML and CSS, 
 following a responsive design using the CSS grid.
 
