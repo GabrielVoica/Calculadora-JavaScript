@@ -1,12 +1,14 @@
 # Calculadora hecha con JavaScript
 
+
+
 Calculadora simple realizada con Java Script y maquetada con HTML y CSS.
 El diseño maquetado es responsive y se adapta a cualquier pantalla.
 
 Consta de operaciones aritméticas y una serie de operaciones de ordenación, 
 intercambio de posición, substracción de elementos y suma de elementos.
 
--------------------------------
+---------------------------------------------------------------------------------------------
 
 Simple calculator made with Java Script. The layout is made with HTML and CSS, 
 following a responsive design using the CSS grid.
