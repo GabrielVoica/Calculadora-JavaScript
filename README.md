@@ -3,7 +3,7 @@
 
 
 Calculadora simple realizada con Java Script y maquetada con HTML y CSS.
-El diseño maquetado es responsive y se adapta a cualquier pantalla.
+
 
 Consta de operaciones aritméticas y una serie de operaciones de ordenación, 
 intercambio de posición, substracción de elementos y suma de elementos.
@@ -18,8 +18,7 @@ Para acceder a las operaciones con coma se debe introducir un número y presiona
 
 # Calculator made with JavaScript
 
-Simple calculator made with Java Script. The layout is made with HTML and CSS, 
-following a responsive design using the CSS grid.
+Simple calculator made with Java Script. The layout is made with HTML and CSS.
 
 It includes the normal arithmetic operations that you can find in a
 calculator as well as a series of operations that i named "comma operations"
