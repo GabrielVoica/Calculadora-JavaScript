@@ -1,26 +1,9 @@
-# Calculadora hecha con JavaScript
-
-
-
-Calculadora simple realizada con Java Script y maquetada con HTML y CSS.
-
-
-Consta de operaciones aritméticas y una serie de operaciones de ordenación, 
-intercambio de posición, substracción de elementos y suma de elementos.
-
-Para acceder a las operaciones con coma se debe introducir un número y presionar el boton **,** . A continuación se deben ingresar mas números cada uno separado por comas.
-
-**Hasta que no se presiona el boton  **,** en la calculadora las operaciones con coma permanecen desactivadas.**
-
- ##### **Este proyecto puede visualizarse utilizando GitHub pages!**
-
----------------------------------------------------------------------------------------------
-
 # Calculator made with JavaScript
 
-Simple calculator made with Java Script. The layout is made with HTML and CSS.
+Small project i did when i started learning JavaScript.
 
-It includes the normal arithmetic operations that you can find in a
+
+Simple web calculator. It includes the normal arithmetic operations that you can find in a
 calculator as well as a series of operations that i named "comma operations"
 such as sorting numbers, changing number index on the sequence, removing the
 last number added, as well as an addition of all the numbers in the sequence and displayed
@@ -31,7 +14,6 @@ You can introduce all the numbers you want but you'll have to separate all of th
 
 **The comma operations remain disabled until you press the comma button**
 
-##### **This project can be visualized using GitHub pages!**
 
 
 
